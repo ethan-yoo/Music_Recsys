@@ -1,4 +1,4 @@
-# 감성분석에 따른 음악 추천 알고리즘
+# 감성기반 음악 추천시스템 개발 프로젝트
 
 ## Architecture Brief
 <img src="https://user-images.githubusercontent.com/54973366/186615945-31aa4f87-ca3a-41d1-9068-9a7d6a0d2021.svg" width="800" height="667"/>
